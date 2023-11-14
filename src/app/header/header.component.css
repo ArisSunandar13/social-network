@@ -2,12 +2,9 @@ mat-grid-list {
     padding-top: 40px;
 }
 
-/* mat-grid-tile {
-    background-color: black;
-} */
-
 .title {
     width: 100%;
+    margin: 3% 0px;
 }
 
 .network {
