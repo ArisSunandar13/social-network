@@ -1,0 +1,123 @@
+.internalMatGrid {
+    width: 100%;
+    height: 100%;
+}
+
+.internalMatGrid mat-grid-tile {
+    background: #f2ecbe;
+    color: #9A3B3B !important;
+}
+
+.transparent {
+    background: transparent !important;
+}
+
+.title {
+    width: 100%;
+    color: #f2ecbe;
+}
+
+.large {
+    font-size: 25px;
+}
+
+.small {
+    font-size: 14px;
+}
+
+.video {
+    width: 100%;
+    margin-top: auto;
+    padding: 10px;
+    justify-content: flex-end;
+}
+
+.video p {
+    margin: 5px 0px;
+}
+
+.author {
+    display: flex;
+    justify-content: space-between;
+    font-size: 11px;
+}
+
+.views {
+    text-align: right;
+}
+
+.upload-video {
+    width: 80%;
+}
+
+.upload-video mat-icon {
+    width: 100%;
+    height: fit-content;
+    font-size: 60px;
+}
+
+.upload-video .upload {
+    width: 90%;
+    margin-bottom: -25px;
+    font-size: 14px;
+}
+
+.upload-video .your {
+    width: 90%;
+    margin-top: -25px;
+    font-size: 14px;
+}
+
+div.activity {
+    width: 98%;
+    height: 100%;
+    padding-left: 2%;
+}
+
+.activity-header {
+    box-sizing: border-box;
+    width: 100%;
+    height: 10%;
+    margin-bottom: 1%;
+    border-bottom: 4px solid #f2ecbe;
+}
+
+.activity-header p {
+    display: flex;
+    justify-content: space-between;
+    padding: 4% 0px;
+}
+
+.activity-body {
+    box-sizing: border-box;
+    width: 100%;
+    height: 86.5%;
+    border-bottom: 2px solid #f2ecbe;
+}
+
+div.channel {
+    width: 98%;
+    height: 100%;
+    padding-left: 2%;
+}
+
+.channel-header {
+    box-sizing: border-box;
+    width: 100%;
+    height: 7.5%;
+    margin-bottom: 1%;
+    border-bottom: 4px solid #f2ecbe;
+}
+
+.channel-header p {
+    display: flex;
+    justify-content: space-between;
+    padding: 4% 0px;
+}
+
+.channel-body {
+    box-sizing: border-box;
+    width: 100%;
+    height: 91%;
+    display: flexbox;
+}
